@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Week 1
+title: Lecture 1
 nav_order: 2
 ---
 
-## Week 1
+## Lecture 1
