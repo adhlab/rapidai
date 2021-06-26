@@ -14,22 +14,23 @@ nav_order: 1
 
 ### Course outline
 
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Lecture 1    | Introduction to Machine Learning | nice  |
+| Lecture 3    | Introduction to Deep Learning    | nice  |
+| Lecture 4    | Loss and Optimization            | yumm  |
+| Lecture 5    | Evaluation Metrics               | yumm  |
+| Lecture 6    | Convolutional Neural Networks    | hmm   |
+| Lecture 7    | Recurrent Neural Networks        | yumm  |
 
 
 ```markdown
 | Week         | head two          | three |
 |:-------------|:------------------|:------|
-| Lecture 1    | good swedish fish | nice  |
-| Lecture 2    | good and plenty   | nice  |
-| Lecture 3    | good `oreos`      | hmm   |
-| Lecture 4    | good `zoute` drop | yumm  |
+| Lecture 1    | Introduction to Machine Learning | nice  |
+| Lecture 3    | Introduction to Deep Learning    | nice  |
+| Lecture 4    | Loss and Optimization            | yumm  |
+| Lecture 5    | Evaluation Metrics               | yumm  |
+| Lecture 6    | Convolutional Neural Networks    | hmm   |
+| Lecture 7    | Recurrent Neural Networks        | yumm  |
 ```
 
 ### Grading policies
