@@ -14,12 +14,12 @@ nav_order: 1
 
 ### Course outline
 ```markdown
-| head1        | head two          | three |
+| Week         | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Lecture 1    | good swedish fish | nice  |
+| Lecture 2    | good and plenty   | nice  |
+| Lecture 3    | good `oreos`      | hmm   |
+| Lecture 4    | good `zoute` drop | yumm  |
 ```
 
 ### Grading policies
