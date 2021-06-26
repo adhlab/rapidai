@@ -13,7 +13,7 @@ nav_order: 1
 ### Course structure
 
 ### Course outline
-<div class="code-example" markdown="1">
+
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -22,7 +22,7 @@ nav_order: 1
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-</div>
+
 ```markdown
 | Week         | head two          | three |
 |:-------------|:------------------|:------|
