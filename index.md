@@ -1,10 +1,25 @@
 ---
 layout: default
-title: Index Page
+title: Overview
 nav_order: 1
 ---
 
-## Welcome to GitHub Pages
+## [XXX-XXX] Rapid AI Development
+
+### Overview
+
+### Course objectives
+
+### Course structure
+
+### Course outline
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
+### Grading policies
 
 You can use the [editor on GitHub](https://github.com/dhpsu/rapidai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
