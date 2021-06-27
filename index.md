@@ -13,8 +13,8 @@ nav_order: 1
 ### Course structure
 
 ### Course outline
-| Week         | Topic                            | Date  |
-|:-------------|:---------------------------------|:------|
+|              | Topic                                                | Date     |
+|:-------------|:-----------------------------------------------------|:---------|
 | Lecture 1    | `Foundation` Introduction to Machine Learning        | `T.B.A.` |
 | Lecture 3    | `Foundation` Introduction to Deep Learning           | `T.B.A.` |
 | Lecture 4    | `Foundation` Loss and Optimization                   | `T.B.A.` |
@@ -22,13 +22,13 @@ nav_order: 1
 | Lecture 6    | `Vision` Image Classification and Image Segmentation | `T.B.A.` |
 | Lecture 7    | `Vision` Keypoint Regression and Object Detection    | `T.B.A.` |
 | Lecture 8    | `Vision` Image Translation and Hybrid Models         | `T.B.A.` |
-| Lecture 9    | `Time-series` ?                    | `T.B.A.` |
-| Lecture 10   | `Text` ?                           | `T.B.A.` |
-| Lecture 11   | `Text` ?                           | `T.B.A.` |
-| Lecture 12   | `Text` ?                           | `T.B.A.` |
-| Lecture 13   | `Tabular` ?                        | `T.B.A.` |
-| Lecture 14   | `Tabular` Collaborative Filtering  | `T.B.A.` |
-| Lecture 15   | `Medical` ?                        | `T.B.A.` |
+| Lecture 9    | `Time-series` ?                                      | `T.B.A.` |
+| Lecture 10   | `Text` ?                                             | `T.B.A.` |
+| Lecture 11   | `Text` ?                                             | `T.B.A.` |
+| Lecture 12   | `Text` ?                                             | `T.B.A.` |
+| Lecture 13   | `Tabular` ?                                          | `T.B.A.` |
+| Lecture 14   | `Tabular` Collaborative Filtering                    | `T.B.A.` |
+| Lecture 15   | `Medical` ?                                          | `T.B.A.` |
 
 ```markdown
 | Week         | head two          | three |
