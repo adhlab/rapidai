@@ -13,6 +13,7 @@ nav_order: 1
 ### Course structure
 
 ### Course outline
+
 |              | Topic                                                | Date     |
 |:-------------|:-----------------------------------------------------|:---------|
 | Lecture 1    | `Foundation` Introduction to Machine Learning        | `T.B.A.` |
