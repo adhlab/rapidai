@@ -13,8 +13,6 @@ nav_order: 1
 ### Course structure
 
 ### Course outline
-|              | Topic                                                | Date     |
-|:-------------|:-----------------------------------------------------|:---------|
 | Lecture 1    | `Foundation` Introduction to Machine Learning        | `T.B.A.` |
 | Lecture 3    | `Foundation` Introduction to Deep Learning           | `T.B.A.` |
 | Lecture 4    | `Foundation` Loss and Optimization                   | `T.B.A.` |
