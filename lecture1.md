@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 ## Lecture 1
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
