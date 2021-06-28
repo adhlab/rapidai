@@ -3,10 +3,8 @@ layout: default
 title: Overview
 nav_order: 1
 ---
-
-## 371/374-590 Rapid AI Development
-
 ### Overview
+# 371/374-590 Rapid AI Development
 
 ### Course objectives
 
