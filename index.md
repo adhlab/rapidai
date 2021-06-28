@@ -3,14 +3,16 @@ layout: default
 title: Overview
 nav_order: 1
 ---
-### Overview
+
 # 371/374-590 Rapid AI Development
 
-### Course objectives
+## Overview
 
-### Course structure
+## Course objectives
 
-### Course outline
+## Course structure
+
+## Course outline
 
 |              | Topic                                                        | Date     |
 |:-------------|:-------------------------------------------------------------|:---------|
@@ -29,6 +31,6 @@ nav_order: 1
 | Lecture 14   | `Tabular` Collaborative Filtering                            | `T.B.A.` |
 | Lecture 15   | `Integration` Hybridizing Models                             | `T.B.A.` |
 
-### Course project
+## Course project
 
-### Grading policies
+## Grading policies
