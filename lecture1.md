@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Lecture 1
+title: Lecture 1 Introduction to Machine Learning
 nav_order: 2
 ---
 
-## Lecture 1
+## Lecture 1 Introduction to Machine Learning
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
